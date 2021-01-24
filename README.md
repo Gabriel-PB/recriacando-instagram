@@ -11,6 +11,5 @@
   * HTML
   * CSS
 
----
 
 <p align= center>Developed by <strong>Gabriel Pereira</strong></p>
